@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "radar-conector-teste@meuradar": {
+      "updates": [
+        {
+          "version": "0.5.7",
+          "update_link": "https://raw.githubusercontent.com/laisoli19/radar-conector/main/radar-conector-0.5.7.xpi"
+        }
+      ]
+    }
+  }
+}
