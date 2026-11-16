@@ -65,6 +65,10 @@
         {
           "version": "0.7.6",
           "update_link": "https://raw.githubusercontent.com/laisoli19/radar-conector/main/radar-conector-0.7.6.xpi"
+        },
+        {
+          "version": "0.7.7",
+          "update_link": "https://raw.githubusercontent.com/laisoli19/radar-conector/main/radar-conector-0.7.7.xpi"
         }
       ]
     }
